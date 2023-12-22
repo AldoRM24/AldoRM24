@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AldoRM2, beginner on this :)
+- 👋 Hi, I’m @AldoRM2, noob on this :)
 
 <!---
 AldoRM24/AldoRM24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
